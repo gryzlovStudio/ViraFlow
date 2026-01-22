@@ -1,0 +1,8 @@
+{
+  "name": "ViraFlow: SMM Video Automator",
+  "description": "An all-in-one platform to upload vertical videos, automatically transcribe them using Gemini AI, generate platform-optimized titles/descriptions/hashtags, and schedule posts for YouTube, TikTok, Instagram, and Rutube.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
